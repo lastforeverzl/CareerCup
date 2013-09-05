@@ -7,9 +7,10 @@
 
 package LinkedLists;
 
+
 public class TwoOne {
 	public static void main(String[] args){
-		Node head = new Node(1);
+		
 	}
 	public static void deleteDups(Node head){
 		if(head ==null)	return;
