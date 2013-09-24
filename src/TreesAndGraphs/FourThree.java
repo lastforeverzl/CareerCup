@@ -29,12 +29,12 @@ public class FourThree {
 		// TODO Auto-generated method stub
 
 	}
-
-}
-class TreeNode{
-	int data;
-	TreeNode left, right;
-	public TreeNode(int data){
-		this.data = data;
+	private class TreeNode{
+		int data;
+		TreeNode left, right;
+		public TreeNode(int data){
+			this.data = data;
+		}
 	}
 }
+
